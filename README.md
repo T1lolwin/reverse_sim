@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d035155f-0712-4653-8dd2-414bd084ca71
+
 # reverse_sim
 # 拡散モデルのスコア関数と二重井戸ポテンシャルの可視化
 
